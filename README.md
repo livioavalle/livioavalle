@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 📫 I can be reached via livioavalle@protonmail.com
+
+
 
 [![livioavalle's github stats](https://github-readme-stats.vercel.app/api?username=livioavalle&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/livioavalle)
 
