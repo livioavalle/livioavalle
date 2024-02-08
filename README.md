@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Home Assistant Personal Config
 - 🌱 I’m currently learning HTML,CSS and JavaScript
-- 📫 I can be reached via livioavalle@protonmail.com
+- 📫 I can be reached via avallelivio@gmail.com
 
 
 
